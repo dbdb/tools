@@ -2,7 +2,7 @@
 
 """ make dirs and files human readable
 
-scp -r root@your_phone:/data/data/com.app_name/databases/asdb.db ./
+scp root@your_phone:/data/data/com.app_name/databases/asdb.db ./
 scp -r root@your_phone:/data/data/com.app_name/files/clips/* ./
 
 ./renamer.py
